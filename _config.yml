@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "밍StudyNote"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
+name                     : "Stella Minkyung"
 description              : "An amazing website."
 url                      : "https://stella-minkky/github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
